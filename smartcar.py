@@ -1,2 +1,2 @@
 print("This is smart car")
-print("its a electric vehicle")
+print("its a fake electric vehicle")
